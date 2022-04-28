@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/ruairidhflint/react-seven-segment.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "react",
     "seven",
@@ -17,6 +20,21 @@
     "7",
     "display"
   ],
+  "peerDependencies": {
+    "react": "^16.8 || 17.x",
+    "react-dom": "^16.8 || 17.x"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.0",
+    "@babel/core": "^7.13.1",
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^8.0.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.22.0",
+    "prettier": "^2.2.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
   "author": "Rory Flint",
   "license": "MIT",
   "bugs": {
