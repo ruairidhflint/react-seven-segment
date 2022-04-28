@@ -1,0 +1,26 @@
+{
+  "name": "react-seven-segment",
+  "version": "1.0.0",
+  "description": "A simple component to display multi-digit numbers in a seven degment display format",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruairidhflint/react-seven-segment.git"
+  },
+  "keywords": [
+    "react",
+    "seven",
+    "segment",
+    "7",
+    "display"
+  ],
+  "author": "Rory Flint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruairidhflint/react-seven-segment/issues"
+  },
+  "homepage": "https://github.com/ruairidhflint/react-seven-segment#readme"
+}
